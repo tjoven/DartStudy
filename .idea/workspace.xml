@@ -1,12 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b3328495-b394-451d-b856-04ac1fdd8a6f" name="Default Changelist" comment="" />
+    <list default="true" id="b3328495-b394-451d-b856-04ac1fdd8a6f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/bin/DartStudy04.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/DartStudy05.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/aa.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="20SSN6aQrNUF9ucaudZvkU2B9iu" />
   <component name="PropertiesComponent">
@@ -30,7 +45,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Dart Command Line App.DartStudy03.dart">
+  <component name="RunManager" selected="Dart Command Line App.DartStudy04.dart">
     <configuration name="DartStudy02.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
       <option name="filePath" value="$PROJECT_DIR$/bin/DartStudy02.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$" />
@@ -41,6 +56,11 @@
       <option name="workingDirectory" value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
+    <configuration name="DartStudy04.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/bin/DartStudy04.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
     <configuration name="DartStudy.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
       <option name="filePath" value="$PROJECT_DIR$/bin/DartStudy.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$" />
@@ -48,6 +68,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Dart Command Line App.DartStudy04.dart" />
         <item itemvalue="Dart Command Line App.DartStudy03.dart" />
         <item itemvalue="Dart Command Line App.DartStudy02.dart" />
         <item itemvalue="Dart Command Line App.DartStudy.dart" />
@@ -66,5 +87,16 @@
       <updated>1636036452494</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
