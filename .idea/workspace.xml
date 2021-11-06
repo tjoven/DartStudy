@@ -1,11 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b3328495-b394-451d-b856-04ac1fdd8a6f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/bin/DartStudy04.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/DartStudy05.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/aa.dart" afterDir="false" />
+    <list default="true" id="b3328495-b394-451d-b856-04ac1fdd8a6f" name="Default Changelist" comment="集合类 list、map、set 常用操作">
+      <change afterPath="$PROJECT_DIR$/bin/DartStudy06.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/DartStudy07.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/DartStudy08.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/DartStudy09.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/DartStudy10.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/DartStudy13.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com.study/Animal.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com.study/Dog.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com.study/Fish.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com.study/Person.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DartStudy04.dart" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DartStudy04.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DartStudy05.dart" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DartStudy05.dart" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,10 +36,14 @@
   <component name="PropertiesComponent">
     <property name="dart.analysis.tool.window.force.activate" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/bin" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\workspace\DartStudy\bin" />
+      <recent name="D:\workspace\DartStudy\bin\com.study" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -45,33 +58,39 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Dart Command Line App.DartStudy04.dart">
-    <configuration name="DartStudy02.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/bin/DartStudy02.dart" />
+  <component name="RunManager" selected="Dart Command Line App.DartStudy10.dart">
+    <configuration name="DartStudy06.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/bin/DartStudy06.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="DartStudy03.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/bin/DartStudy03.dart" />
+    <configuration name="DartStudy07.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/bin/DartStudy07.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="DartStudy04.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/bin/DartStudy04.dart" />
+    <configuration name="DartStudy08.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/bin/DartStudy08.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="DartStudy.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/bin/DartStudy.dart" />
+    <configuration name="DartStudy09.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/bin/DartStudy09.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="DartStudy10.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/bin/DartStudy10.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Dart Command Line App.DartStudy04.dart" />
-        <item itemvalue="Dart Command Line App.DartStudy03.dart" />
-        <item itemvalue="Dart Command Line App.DartStudy02.dart" />
-        <item itemvalue="Dart Command Line App.DartStudy.dart" />
+        <item itemvalue="Dart Command Line App.DartStudy10.dart" />
+        <item itemvalue="Dart Command Line App.DartStudy09.dart" />
+        <item itemvalue="Dart Command Line App.DartStudy08.dart" />
+        <item itemvalue="Dart Command Line App.DartStudy07.dart" />
+        <item itemvalue="Dart Command Line App.DartStudy06.dart" />
       </list>
     </recent_temporary>
   </component>
@@ -86,6 +105,14 @@
       <option name="presentableId" value="Default" />
       <updated>1636036452494</updated>
     </task>
+    <task id="LOCAL-00001" summary="集合类 list、map、set 常用操作">
+      <created>1636125942741</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1636125942741</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -98,5 +125,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="集合类 list、map、set 常用操作" />
+    <option name="LAST_COMMIT_MESSAGE" value="集合类 list、map、set 常用操作" />
   </component>
 </project>
